@@ -1,0 +1,13 @@
+[
+  {
+    "_id": "69749a8a32b689a44d8e52c5",
+    "email": "test@example.com",
+    "username": "test",
+    "hashed_password": "$pbkdf2-sha256$29000$gpDyPuc8J4TQOgdgLGWMMQ$e/nn4vb5Yh.vPdBvq1HGHunYdeYvanLgsw1vppU681M",
+    "current_level": 1,
+    "total_xp": 0,
+    "city_restoration_progress": 0,
+    "created_at": "2026-01-24T15:40:18.921370",
+    "achievements": []
+  }
+]

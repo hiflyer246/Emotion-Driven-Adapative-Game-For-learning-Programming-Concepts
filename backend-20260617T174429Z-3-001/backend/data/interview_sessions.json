@@ -1,0 +1,2029 @@
+[
+  {
+    "_id": "6974a49ed4e787cdeb2a77fa",
+    "session_id": "7bc36d09-e8c3-4e9a-a122-eb7b0ab7c7c2",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24T16:23:18.146000",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T16:23:22.637551",
+        "emotion": "angry",
+        "confidence": 46.86095428466797
+      },
+      {
+        "timestamp": "2026-01-24T16:23:24.860064",
+        "emotion": "neutral",
+        "confidence": 96.96549224853516
+      },
+      {
+        "timestamp": "2026-01-24T16:23:27.862518",
+        "emotion": "neutral",
+        "confidence": 99.92904663085938
+      }
+    ],
+    "current_question": {
+      "question_text": "COULD NOT GENERATE QUESTION. Please describe your experience with this topic.",
+      "question_type": "behavioral",
+      "difficulty_level": "easy"
+    }
+  },
+  {
+    "_id": "6974a5548fbc724ec393b048",
+    "session_id": "138c8ed0-6bef-4684-b08a-c5134e94fa2f",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24T16:26:20.269000",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [
+      {
+        "question": {
+          "question_text": "Let's start with the basics. In Python, how do you define a variable, and what are some of the fundamental data types you might assign to it?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about how Python handles variable declaration compared to some other languages.",
+            "Can you give an example of assigning an integer or a string?",
+            "What are the most common types of data you store?"
+          ]
+        },
+        "answer_text": "(No speech detected)",
+        "analysis": {
+          "is_correct": false,
+          "rating": 1,
+          "feedback": "The candidate did not provide an answer to the question. No speech was detected.",
+          "is_complete": false,
+          "sentiment": "negative",
+          "improvement_tip": "Please ensure you speak clearly and provide an answer to the question asked."
+        },
+        "timestamp": "2026-01-24T16:27:16.426901"
+      },
+      {
+        "question": {
+          "question_text": "Let's try that again. Could you please show me how you would assign a simple integer value, like the number 10, to a variable named `my_number` in Python?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about the basic assignment operator in Python.",
+            "Remember that you don't need to declare the variable's type explicitly in Python."
+          ]
+        },
+        "answer_text": "(No speech detected)",
+        "analysis": {
+          "is_correct": false,
+          "rating": 1,
+          "feedback": "The candidate did not provide an answer. To assign the integer 10 to a variable named `my_number` in Python, you would use the syntax `my_number = 10`.",
+          "is_complete": false,
+          "sentiment": "negative",
+          "improvement_tip": "Always provide a direct answer to the question, even if it's a simple code snippet."
+        },
+        "timestamp": "2026-01-24T16:28:11.878210"
+      }
+    ],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T16:26:25.460073",
+        "emotion": "neutral",
+        "confidence": 60.89542007446289
+      },
+      {
+        "timestamp": "2026-01-24T16:26:27.892157",
+        "emotion": "fear",
+        "confidence": 53.29292297363281
+      },
+      {
+        "timestamp": "2026-01-24T16:26:30.894416",
+        "emotion": "neutral",
+        "confidence": 88.89412689208984
+      },
+      {
+        "timestamp": "2026-01-24T16:26:33.893455",
+        "emotion": "happy",
+        "confidence": 99.52337646484375
+      },
+      {
+        "timestamp": "2026-01-24T16:26:36.896686",
+        "emotion": "neutral",
+        "confidence": 99.6395034790039
+      },
+      {
+        "timestamp": "2026-01-24T16:26:39.894550",
+        "emotion": "neutral",
+        "confidence": 70.3840560913086
+      },
+      {
+        "timestamp": "2026-01-24T16:26:42.900115",
+        "emotion": "neutral",
+        "confidence": 98.23565673828125
+      },
+      {
+        "timestamp": "2026-01-24T16:26:45.899310",
+        "emotion": "neutral",
+        "confidence": 69.26673889160156
+      },
+      {
+        "timestamp": "2026-01-24T16:26:48.897021",
+        "emotion": "neutral",
+        "confidence": 94.4677734375
+      },
+      {
+        "timestamp": "2026-01-24T16:26:51.891127",
+        "emotion": "neutral",
+        "confidence": 99.98506164550781
+      },
+      {
+        "timestamp": "2026-01-24T16:26:54.894511",
+        "emotion": "neutral",
+        "confidence": 44.502079010009766
+      },
+      {
+        "timestamp": "2026-01-24T16:26:57.900208",
+        "emotion": "fear",
+        "confidence": 58.24615478515625
+      },
+      {
+        "timestamp": "2026-01-24T16:27:00.893209",
+        "emotion": "neutral",
+        "confidence": 95.53749084472656
+      },
+      {
+        "timestamp": "2026-01-24T16:27:03.898357",
+        "emotion": "neutral",
+        "confidence": 99.65986633300781
+      },
+      {
+        "timestamp": "2026-01-24T16:27:06.892609",
+        "emotion": "neutral",
+        "confidence": 99.9776611328125
+      },
+      {
+        "timestamp": "2026-01-24T16:27:09.892933",
+        "emotion": "neutral",
+        "confidence": 92.52938079833984
+      },
+      {
+        "timestamp": "2026-01-24T16:27:12.889989",
+        "emotion": "neutral",
+        "confidence": 92.51181030273438
+      },
+      {
+        "timestamp": "2026-01-24T16:27:21.446295",
+        "emotion": "neutral",
+        "confidence": 91.92037200927734
+      },
+      {
+        "timestamp": "2026-01-24T16:27:23.103899",
+        "emotion": "neutral",
+        "confidence": 96.17089080810547
+      },
+      {
+        "timestamp": "2026-01-24T16:27:23.155605",
+        "emotion": "sad",
+        "confidence": 77.73857116699219
+      },
+      {
+        "timestamp": "2026-01-24T16:27:24.897090",
+        "emotion": "neutral",
+        "confidence": 98.60079956054688
+      },
+      {
+        "timestamp": "2026-01-24T16:27:27.894813",
+        "emotion": "neutral",
+        "confidence": 80.90189361572266
+      },
+      {
+        "timestamp": "2026-01-24T16:27:30.891893",
+        "emotion": "sad",
+        "confidence": 45.822181701660156
+      },
+      {
+        "timestamp": "2026-01-24T16:27:33.891444",
+        "emotion": "sad",
+        "confidence": 56.926334381103516
+      },
+      {
+        "timestamp": "2026-01-24T16:27:36.903008",
+        "emotion": "sad",
+        "confidence": 47.02371597290039
+      },
+      {
+        "timestamp": "2026-01-24T16:27:39.904016",
+        "emotion": "neutral",
+        "confidence": 98.64066314697266
+      },
+      {
+        "timestamp": "2026-01-24T16:27:42.895205",
+        "emotion": "sad",
+        "confidence": 51.10206604003906
+      },
+      {
+        "timestamp": "2026-01-24T16:27:45.892753",
+        "emotion": "angry",
+        "confidence": 42.89558029174805
+      },
+      {
+        "timestamp": "2026-01-24T16:27:48.905568",
+        "emotion": "neutral",
+        "confidence": 97.88551330566406
+      },
+      {
+        "timestamp": "2026-01-24T16:27:51.897114",
+        "emotion": "neutral",
+        "confidence": 62.41317367553711
+      },
+      {
+        "timestamp": "2026-01-24T16:27:54.896888",
+        "emotion": "neutral",
+        "confidence": 86.33599090576172
+      },
+      {
+        "timestamp": "2026-01-24T16:27:57.893773",
+        "emotion": "neutral",
+        "confidence": 91.09083557128906
+      },
+      {
+        "timestamp": "2026-01-24T16:28:00.914088",
+        "emotion": "neutral",
+        "confidence": 92.36341857910156
+      },
+      {
+        "timestamp": "2026-01-24T16:28:03.890168",
+        "emotion": "fear",
+        "confidence": 66.0966567993164
+      },
+      {
+        "timestamp": "2026-01-24T16:28:06.896497",
+        "emotion": "neutral",
+        "confidence": 99.07707214355469
+      },
+      {
+        "timestamp": "2026-01-24T16:28:18.255679",
+        "emotion": "neutral",
+        "confidence": 99.86837005615234
+      },
+      {
+        "timestamp": "2026-01-24T16:28:19.924476",
+        "emotion": "neutral",
+        "confidence": 64.60961151123047
+      },
+      {
+        "timestamp": "2026-01-24T16:28:19.962245",
+        "emotion": "neutral",
+        "confidence": 36.2959098815918
+      }
+    ],
+    "current_question": {
+      "question_text": "Let's try a very simple concept to ensure we're on the same page. In Python, what specific symbol do we use to assign a value to a variable?",
+      "question_type": "technical",
+      "difficulty_level": "easy",
+      "suggested_hints": [
+        "Think about the operator that puts a value into a variable.",
+        "It's a single character symbol."
+      ]
+    }
+  },
+  {
+    "session_id": "b35bd04b-414f-48cc-b96c-5da26d1c57ef",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:28:19.693105",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [
+      {
+        "question": {
+          "question_text": "Let's start with a fundamental concept. In Python, how do you declare a variable and assign a value to it? Could you give a simple example?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about the basic syntax for assignment.",
+            "Does Python require you to specify the data type when declaring a variable?"
+          ]
+        },
+        "answer_text": " okay okay so okay so okay so you okay so us okay so you should okay so usually okay so usually and okay so usually in okay so usually and p okay so usually and py okay so usually and pyth okay so usually and python okay so usually and Python we okay so usually and Python we don't okay so usually and Python we don't okay so usually and Python we don't have okay so usually and Python we don't have okay so usually and Python we don't have okay so usually and Python we don't have okay so usually and Python we don't have to okay so usually and Python we don't have to okay so usually and Python we don't have to actually okay so usually and Python we don't have to actually okay so usually and Python we don't have to actually okay so usually and Python we don't have to actually tell okay so usually and Python we don't have to actually tell us okay so usually and Python we don't have to actually tell us okay so usually and Python we don't have to actually tell us okay so usually and Python we don't have to actually tell us which",
+        "analysis": {
+          "is_correct": false,
+          "rating": 1,
+          "feedback": "The provided answer is extremely fragmented and incomplete. It does not explain how to declare a variable or assign a value in Python, nor does it provide an example. It appears to be a very poor or cut-off transcription of someone attempting to speak.",
+          "is_complete": false,
+          "sentiment": "negative",
+          "improvement_tip": "Clearly state that in Python, you declare a variable by simply assigning a value to a name using the `=` operator, and then provide a concrete code example like `my_variable = 10`."
+        },
+        "timestamp": "2026-01-24T17:28:48.491077"
+      },
+      {
+        "question": {
+          "question_text": "No worries at all, let's try a slightly different angle to ensure we cover the basics. In Python, what specific symbol do we use to assign a value to a variable? For example, if you wanted to store the number 10 in a variable named `x`, how would you write that?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about the operator that puts a value into a variable.",
+            "It's a very common symbol for assignment in many programming languages."
+          ]
+        },
+        "answer_text": " so so if so if you so if you just so if you just so if you just need so if you just need so if you just need so if you just need to so if you just need to so if you just need to store so if you just need to store so if you just need to store so if you just need to store the so if you just need to store the value so if you just need to store the value of so if you just need to store the value of so if you just need to store the value of 10 so if you just need to store the value of 10 so if you just need to store the value of 10 so if you just need to store the value of 10 in so if you just need to store the value of 10 n so if you just need to store the value of 10 NX so if you just need to store the value of 10 NX so if you just need to store the value of 10 NX we so if you just need to store the value of 10 NX we can so if you just need to store the value of 10 NX we can just so if you just need to store the value of 10 NX we can just so if you just need to store the value of 10 NX we can just Si so if you just need to store the value of 10 NX we can just simp so if you just need to store the value of 10 NX we can just simply so if you just need to store the value of 10 NX we can just simply so if you just need to store the value of 10 NX we can just simply say so if you just need to store the value of 10 NX we can just simply so if you just need to store the value of 10 NX we can just simply x so if you just need to store the value of 10 NX we can just simply X is so if you just need to store the value of 10 NX we can just simply x is equal so if you just need to store the value of 10 NX we can just simply x is equal to so if you just need to store the value of 10 NX we can just simply x is equal to 10 so if you just need to store the value of 10 NX we can just simply x is equal to 10",
+        "analysis": {
+          "is_correct": true,
+          "rating": 5,
+          "feedback": "The answer correctly provides the Python code for assigning a value to a variable, `x = 10`, which directly answers the example part of the question. It also implicitly identifies the `=` symbol as the assignment operator. However, the response is extremely verbose and repetitive, making it difficult to extract the core information efficiently.",
+          "is_complete": true,
+          "sentiment": "neutral",
+          "improvement_tip": "Be more concise and directly state the specific symbol used for assignment (e.g., 'the equals sign' or 'the `=` symbol') before providing the example code, to improve clarity and reduce verbosity."
+        },
+        "timestamp": "2026-01-24T17:29:40.613767"
+      }
+    ],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:28:24.152897",
+        "emotion": "neutral",
+        "confidence": 80.4935302734375
+      },
+      {
+        "timestamp": "2026-01-24T17:28:27.133675",
+        "emotion": "angry",
+        "confidence": 43.522560119628906
+      },
+      {
+        "timestamp": "2026-01-24T17:28:30.143323",
+        "emotion": "neutral",
+        "confidence": 95.71664428710938
+      },
+      {
+        "timestamp": "2026-01-24T17:28:33.144801",
+        "emotion": "neutral",
+        "confidence": 89.76876831054688
+      },
+      {
+        "timestamp": "2026-01-24T17:28:36.148372",
+        "emotion": "neutral",
+        "confidence": 88.35443115234375
+      },
+      {
+        "timestamp": "2026-01-24T17:28:39.144562",
+        "emotion": "neutral",
+        "confidence": 68.11093139648438
+      },
+      {
+        "timestamp": "2026-01-24T17:28:42.145874",
+        "emotion": "neutral",
+        "confidence": 98.62799835205078
+      },
+      {
+        "timestamp": "2026-01-24T17:28:56.698910",
+        "emotion": "neutral",
+        "confidence": 99.7491455078125
+      },
+      {
+        "timestamp": "2026-01-24T17:28:56.756234",
+        "emotion": "neutral",
+        "confidence": 99.90415954589844
+      },
+      {
+        "timestamp": "2026-01-24T17:28:56.805815",
+        "emotion": "surprise",
+        "confidence": 51.44108963012695
+      },
+      {
+        "timestamp": "2026-01-24T17:28:56.852982",
+        "emotion": "neutral",
+        "confidence": 75.45343780517578
+      },
+      {
+        "timestamp": "2026-01-24T17:28:57.144569",
+        "emotion": "neutral",
+        "confidence": 98.72748565673828
+      },
+      {
+        "timestamp": "2026-01-24T17:29:00.144597",
+        "emotion": "neutral",
+        "confidence": 97.95032501220703
+      },
+      {
+        "timestamp": "2026-01-24T17:29:03.134825",
+        "emotion": "neutral",
+        "confidence": 99.9618148803711
+      },
+      {
+        "timestamp": "2026-01-24T17:29:06.137216",
+        "emotion": "neutral",
+        "confidence": 82.21031188964844
+      },
+      {
+        "timestamp": "2026-01-24T17:29:09.132095",
+        "emotion": "neutral",
+        "confidence": 64.48516845703125
+      },
+      {
+        "timestamp": "2026-01-24T17:29:12.451946",
+        "emotion": "neutral",
+        "confidence": 94.31654357910156
+      },
+      {
+        "timestamp": "2026-01-24T17:29:15.132661",
+        "emotion": "neutral",
+        "confidence": 90.16461944580078
+      },
+      {
+        "timestamp": "2026-01-24T17:29:18.136797",
+        "emotion": "neutral",
+        "confidence": 93.73807525634766
+      },
+      {
+        "timestamp": "2026-01-24T17:29:21.150401",
+        "emotion": "sad",
+        "confidence": 73.8315200805664
+      },
+      {
+        "timestamp": "2026-01-24T17:29:24.137460",
+        "emotion": "neutral",
+        "confidence": 96.1774673461914
+      },
+      {
+        "timestamp": "2026-01-24T17:29:27.135834",
+        "emotion": "neutral",
+        "confidence": 96.48006439208984
+      },
+      {
+        "timestamp": "2026-01-24T17:29:30.135514",
+        "emotion": "neutral",
+        "confidence": 97.45899200439453
+      },
+      {
+        "timestamp": "2026-01-24T17:29:33.138052",
+        "emotion": "neutral",
+        "confidence": 99.45985412597656
+      },
+      {
+        "timestamp": "2026-01-24T17:29:51.867205",
+        "emotion": "neutral",
+        "confidence": 98.37775421142578
+      },
+      {
+        "timestamp": "2026-01-24T17:29:51.920869",
+        "emotion": "neutral",
+        "confidence": 91.62387084960938
+      },
+      {
+        "timestamp": "2026-01-24T17:29:51.965251",
+        "emotion": "neutral",
+        "confidence": 99.95045471191406
+      },
+      {
+        "timestamp": "2026-01-24T17:29:52.013514",
+        "emotion": "neutral",
+        "confidence": 94.49971008300781
+      },
+      {
+        "timestamp": "2026-01-24T17:29:52.058932",
+        "emotion": "neutral",
+        "confidence": 99.24512481689453
+      },
+      {
+        "timestamp": "2026-01-24T17:29:52.096304",
+        "emotion": "neutral",
+        "confidence": 99.86187744140625
+      },
+      {
+        "timestamp": "2026-01-24T17:29:54.152250",
+        "emotion": "neutral",
+        "confidence": 97.90222930908203
+      },
+      {
+        "timestamp": "2026-01-24T17:29:57.152760",
+        "emotion": "neutral",
+        "confidence": 97.9580307006836
+      },
+      {
+        "timestamp": "2026-01-24T17:30:00.132591",
+        "emotion": "neutral",
+        "confidence": 96.90869903564453
+      },
+      {
+        "timestamp": "2026-01-24T17:30:03.137760",
+        "emotion": "neutral",
+        "confidence": 99.84890747070312
+      },
+      {
+        "timestamp": "2026-01-24T17:30:06.138172",
+        "emotion": "neutral",
+        "confidence": 99.0245361328125
+      },
+      {
+        "timestamp": "2026-01-24T17:30:09.132506",
+        "emotion": "neutral",
+        "confidence": 99.61759948730469
+      },
+      {
+        "timestamp": "2026-01-24T17:30:12.145943",
+        "emotion": "neutral",
+        "confidence": 97.13943481445312
+      },
+      {
+        "timestamp": "2026-01-24T17:30:15.134476",
+        "emotion": "neutral",
+        "confidence": 97.48383331298828
+      },
+      {
+        "timestamp": "2026-01-24T17:30:18.139272",
+        "emotion": "neutral",
+        "confidence": 84.82634735107422
+      },
+      {
+        "timestamp": "2026-01-24T17:30:21.163740",
+        "emotion": "neutral",
+        "confidence": 69.00816345214844
+      },
+      {
+        "timestamp": "2026-01-24T17:30:24.146699",
+        "emotion": "surprise",
+        "confidence": 90.61344146728516
+      },
+      {
+        "timestamp": "2026-01-24T17:30:27.137343",
+        "emotion": "surprise",
+        "confidence": 98.02265167236328
+      },
+      {
+        "timestamp": "2026-01-24T17:30:30.144566",
+        "emotion": "happy",
+        "confidence": 90.35303497314453
+      },
+      {
+        "timestamp": "2026-01-24T17:30:33.138178",
+        "emotion": "neutral",
+        "confidence": 97.07808685302734
+      },
+      {
+        "timestamp": "2026-01-24T17:30:36.137704",
+        "emotion": "neutral",
+        "confidence": 90.88180541992188
+      },
+      {
+        "timestamp": "2026-01-24T17:30:39.144453",
+        "emotion": "neutral",
+        "confidence": 99.25177764892578
+      },
+      {
+        "timestamp": "2026-01-24T17:30:42.137954",
+        "emotion": "neutral",
+        "confidence": 86.71086883544922
+      },
+      {
+        "timestamp": "2026-01-24T17:30:45.136520",
+        "emotion": "neutral",
+        "confidence": 98.94501495361328
+      },
+      {
+        "timestamp": "2026-01-24T17:30:48.134348",
+        "emotion": "fear",
+        "confidence": 99.8106460571289
+      },
+      {
+        "timestamp": "2026-01-24T17:30:51.137151",
+        "emotion": "fear",
+        "confidence": 50.84223937988281
+      },
+      {
+        "timestamp": "2026-01-24T17:30:54.144642",
+        "emotion": "neutral",
+        "confidence": 63.1915283203125
+      },
+      {
+        "timestamp": "2026-01-24T17:30:57.138516",
+        "emotion": "neutral",
+        "confidence": 94.83281707763672
+      },
+      {
+        "timestamp": "2026-01-24T17:31:00.145518",
+        "emotion": "neutral",
+        "confidence": 87.39962005615234
+      },
+      {
+        "timestamp": "2026-01-24T17:31:03.150384",
+        "emotion": "sad",
+        "confidence": 54.61406707763672
+      },
+      {
+        "timestamp": "2026-01-24T17:31:06.146245",
+        "emotion": "sad",
+        "confidence": 76.25711059570312
+      },
+      {
+        "timestamp": "2026-01-24T17:31:09.138604",
+        "emotion": "disgust",
+        "confidence": 74.098388671875
+      },
+      {
+        "timestamp": "2026-01-24T17:31:12.140857",
+        "emotion": "sad",
+        "confidence": 59.628379821777344
+      },
+      {
+        "timestamp": "2026-01-24T17:31:15.141253",
+        "emotion": "sad",
+        "confidence": 35.83317184448242
+      },
+      {
+        "timestamp": "2026-01-24T17:31:18.145584",
+        "emotion": "angry",
+        "confidence": 94.9957046508789
+      },
+      {
+        "timestamp": "2026-01-24T17:31:21.148172",
+        "emotion": "angry",
+        "confidence": 40.71303939819336
+      },
+      {
+        "timestamp": "2026-01-24T17:31:24.146510",
+        "emotion": "neutral",
+        "confidence": 82.22920227050781
+      }
+    ],
+    "current_question": {
+      "question_text": "Great job with `x = 10`! That's exactly right for assigning an integer. Python supports various types of data. Could you tell me about some other common built-in data types in Python and provide a quick example for each?",
+      "question_type": "technical",
+      "difficulty_level": "easy",
+      "suggested_hints": [
+        "Consider different kinds of values you might want to store, beyond just whole numbers.",
+        "What about text or decimal numbers?"
+      ]
+    },
+    "_id": "183632e7-e740-4c80-b0e9-d26c533b2786"
+  },
+  {
+    "session_id": "5e4d5007-8afd-4fbb-a052-c5244a7109b8",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:32:01.008124",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:32:05.503585",
+        "emotion": "neutral",
+        "confidence": 99.9371109008789
+      },
+      {
+        "timestamp": "2026-01-24T17:32:08.509697",
+        "emotion": "surprise",
+        "confidence": 87.58483123779297
+      },
+      {
+        "timestamp": "2026-01-24T17:32:11.499909",
+        "emotion": "fear",
+        "confidence": 99.94635772705078
+      },
+      {
+        "timestamp": "2026-01-24T17:32:14.496180",
+        "emotion": "fear",
+        "confidence": 99.95838928222656
+      },
+      {
+        "timestamp": "2026-01-24T17:32:17.510396",
+        "emotion": "fear",
+        "confidence": 99.98670196533203
+      },
+      {
+        "timestamp": "2026-01-24T17:32:20.496989",
+        "emotion": "fear",
+        "confidence": 99.98350524902344
+      },
+      {
+        "timestamp": "2026-01-24T17:32:23.516022",
+        "emotion": "fear",
+        "confidence": 98.81465148925781
+      },
+      {
+        "timestamp": "2026-01-24T17:32:26.511750",
+        "emotion": "fear",
+        "confidence": 98.82891082763672
+      },
+      {
+        "timestamp": "2026-01-24T17:32:29.496848",
+        "emotion": "neutral",
+        "confidence": 82.17677307128906
+      },
+      {
+        "timestamp": "2026-01-24T17:32:32.499086",
+        "emotion": "neutral",
+        "confidence": 75.63619232177734
+      },
+      {
+        "timestamp": "2026-01-24T17:32:35.507923",
+        "emotion": "neutral",
+        "confidence": 95.23052215576172
+      },
+      {
+        "timestamp": "2026-01-24T17:32:38.508098",
+        "emotion": "fear",
+        "confidence": 72.97038269042969
+      },
+      {
+        "timestamp": "2026-01-24T17:32:41.516750",
+        "emotion": "neutral",
+        "confidence": 99.96031951904297
+      },
+      {
+        "timestamp": "2026-01-24T17:32:44.508585",
+        "emotion": "fear",
+        "confidence": 92.97288513183594
+      },
+      {
+        "timestamp": "2026-01-24T17:32:47.508497",
+        "emotion": "neutral",
+        "confidence": 97.65387725830078
+      },
+      {
+        "timestamp": "2026-01-24T17:32:50.511384",
+        "emotion": "fear",
+        "confidence": 47.01603317260742
+      },
+      {
+        "timestamp": "2026-01-24T17:32:53.512532",
+        "emotion": "neutral",
+        "confidence": 83.72804260253906
+      },
+      {
+        "timestamp": "2026-01-24T17:32:56.502040",
+        "emotion": "neutral",
+        "confidence": 83.89201354980469
+      }
+    ],
+    "current_question": {
+      "question_text": "Could you tell me about some of the common built-in data types in Python? And how would you determine the type of a variable in Python?",
+      "question_type": "technical",
+      "difficulty_level": "easy",
+      "suggested_hints": [
+        "Think about the different kinds of values you can store, like numbers, text, or true/false values.",
+        "There's a simple built-in function to check the type of any object."
+      ]
+    },
+    "_id": "18b40461-aa8d-4f48-b958-948c2b7326ab"
+  },
+  {
+    "session_id": "07397205-c4d0-43cf-86ba-3cdf4fa0e479",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:33:02.870556",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [
+      {
+        "question": {
+          "question_text": "Let's start with something fundamental. In Python, how do you declare a variable and assign a value to it? Can you give a simple example?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about the basic syntax for assignment.",
+            "Consider what types of values you can assign (e.g., numbers, text)."
+          ]
+        },
+        "answer_text": "Soham directly assign variable value by it is saying like the variable name is equal to the value for it for example x is equal to 10 and yeah that's all for the variables",
+        "analysis": {
+          "is_correct": true,
+          "rating": 8,
+          "feedback": "The answer correctly explains how to declare a variable and assign a value in Python using the assignment operator (`=`) and provides a clear example (`x = 10`). The core concept is well-communicated.",
+          "is_complete": true,
+          "sentiment": "positive",
+          "improvement_tip": "While correct, the phrasing 'Soham directly assign variable value by it is saying like...' could be more direct and formal. Consider saying something like 'In Python, you declare a variable and assign a value to it by using the variable name followed by an equals sign and then the value.'"
+        },
+        "timestamp": "2026-01-24T17:34:14.534832"
+      },
+      {
+        "question": {
+          "question_text": "That's a good explanation. Building on that, when you assign values to variables in Python, those values have different *types*. Can you name a few common built-in data types in Python and perhaps give an example for each?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about different kinds of information you might store (e.g., whole numbers, decimal numbers, text).",
+            "How does Python distinguish between a number and a word?"
+          ]
+        },
+        "answer_text": "so there are few built in data types such as integer characters strings Doubles Bullions Boolean values etc so far integers you can simply do x is equal to 10 for characters you can do x is equal to single a poster and the letter then for Doubles or strings of woolen values you can just simply x is equal to the value so for example x is equal to the string x is equal to x is equal to 7 0.993",
+        "analysis": {
+          "is_correct": false,
+          "rating": 6,
+          "feedback": "The answer correctly identifies integers, strings, and the concept of floating-point numbers and booleans. The examples provided for integers, strings, and floats are also correct. However, Python does not have a distinct 'character' type; single characters are simply strings. The term 'Doubles' is typically referred to as 'float' in Python. 'Bullions' should be 'Booleans'. A clear example for a boolean value would also improve the answer.",
+          "is_complete": false,
+          "sentiment": "neutral",
+          "improvement_tip": "Be precise with Python's specific type names like `int`, `str`, `float`, and `bool`, and remember that single characters are just strings in Python, not a separate type."
+        },
+        "timestamp": "2026-01-24T17:36:32.413746"
+      }
+    ],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:33:07.641786",
+        "emotion": "fear",
+        "confidence": 65.96395111083984
+      },
+      {
+        "timestamp": "2026-01-24T17:33:10.640310",
+        "emotion": "neutral",
+        "confidence": 40.06351089477539
+      },
+      {
+        "timestamp": "2026-01-24T17:33:13.642075",
+        "emotion": "neutral",
+        "confidence": 90.03315734863281
+      },
+      {
+        "timestamp": "2026-01-24T17:33:16.646780",
+        "emotion": "neutral",
+        "confidence": 65.26303100585938
+      },
+      {
+        "timestamp": "2026-01-24T17:33:19.642694",
+        "emotion": "fear",
+        "confidence": 70.5310287475586
+      },
+      {
+        "timestamp": "2026-01-24T17:33:22.643597",
+        "emotion": "neutral",
+        "confidence": 75.46756744384766
+      },
+      {
+        "timestamp": "2026-01-24T17:33:25.639852",
+        "emotion": "neutral",
+        "confidence": 74.19441223144531
+      },
+      {
+        "timestamp": "2026-01-24T17:33:28.640106",
+        "emotion": "neutral",
+        "confidence": 83.77774810791016
+      },
+      {
+        "timestamp": "2026-01-24T17:33:31.641532",
+        "emotion": "neutral",
+        "confidence": 99.78266906738281
+      },
+      {
+        "timestamp": "2026-01-24T17:33:34.641840",
+        "emotion": "neutral",
+        "confidence": 99.8206787109375
+      },
+      {
+        "timestamp": "2026-01-24T17:33:37.645626",
+        "emotion": "neutral",
+        "confidence": 90.4281234741211
+      },
+      {
+        "timestamp": "2026-01-24T17:33:40.640841",
+        "emotion": "fear",
+        "confidence": 71.9295883178711
+      },
+      {
+        "timestamp": "2026-01-24T17:33:43.641385",
+        "emotion": "sad",
+        "confidence": 52.17317199707031
+      },
+      {
+        "timestamp": "2026-01-24T17:33:46.648138",
+        "emotion": "fear",
+        "confidence": 51.23518753051758
+      },
+      {
+        "timestamp": "2026-01-24T17:33:49.642466",
+        "emotion": "fear",
+        "confidence": 57.29425048828125
+      },
+      {
+        "timestamp": "2026-01-24T17:33:52.644522",
+        "emotion": "sad",
+        "confidence": 66.64901733398438
+      },
+      {
+        "timestamp": "2026-01-24T17:33:55.643112",
+        "emotion": "sad",
+        "confidence": 35.06829833984375
+      },
+      {
+        "timestamp": "2026-01-24T17:33:58.638353",
+        "emotion": "neutral",
+        "confidence": 96.2421646118164
+      },
+      {
+        "timestamp": "2026-01-24T17:34:01.640245",
+        "emotion": "fear",
+        "confidence": 39.92237091064453
+      },
+      {
+        "timestamp": "2026-01-24T17:34:04.640118",
+        "emotion": "neutral",
+        "confidence": 98.481201171875
+      },
+      {
+        "timestamp": "2026-01-24T17:34:07.637135",
+        "emotion": "neutral",
+        "confidence": 99.23186492919922
+      },
+      {
+        "timestamp": "2026-01-24T17:34:10.649959",
+        "emotion": "neutral",
+        "confidence": 89.1167221069336
+      },
+      {
+        "timestamp": "2026-01-24T17:34:20.821171",
+        "emotion": "neutral",
+        "confidence": 99.77032470703125
+      },
+      {
+        "timestamp": "2026-01-24T17:34:20.864566",
+        "emotion": "neutral",
+        "confidence": 93.62567901611328
+      },
+      {
+        "timestamp": "2026-01-24T17:34:20.915466",
+        "emotion": "angry",
+        "confidence": 37.613868713378906
+      },
+      {
+        "timestamp": "2026-01-24T17:34:22.643778",
+        "emotion": "neutral",
+        "confidence": 99.38418579101562
+      },
+      {
+        "timestamp": "2026-01-24T17:34:25.644446",
+        "emotion": "neutral",
+        "confidence": 51.86056900024414
+      },
+      {
+        "timestamp": "2026-01-24T17:34:28.639485",
+        "emotion": "happy",
+        "confidence": 99.29582977294922
+      },
+      {
+        "timestamp": "2026-01-24T17:34:31.638695",
+        "emotion": "neutral",
+        "confidence": 99.97188568115234
+      },
+      {
+        "timestamp": "2026-01-24T17:34:34.638370",
+        "emotion": "happy",
+        "confidence": 54.35472106933594
+      },
+      {
+        "timestamp": "2026-01-24T17:34:37.642783",
+        "emotion": "angry",
+        "confidence": 44.494659423828125
+      },
+      {
+        "timestamp": "2026-01-24T17:34:40.639882",
+        "emotion": "angry",
+        "confidence": 43.00415802001953
+      },
+      {
+        "timestamp": "2026-01-24T17:34:43.637547",
+        "emotion": "sad",
+        "confidence": 78.81710052490234
+      },
+      {
+        "timestamp": "2026-01-24T17:34:46.638208",
+        "emotion": "sad",
+        "confidence": 91.0053482055664
+      },
+      {
+        "timestamp": "2026-01-24T17:34:49.644452",
+        "emotion": "sad",
+        "confidence": 64.72860717773438
+      },
+      {
+        "timestamp": "2026-01-24T17:34:52.637822",
+        "emotion": "neutral",
+        "confidence": 85.29460144042969
+      },
+      {
+        "timestamp": "2026-01-24T17:34:55.641130",
+        "emotion": "fear",
+        "confidence": 82.9579849243164
+      },
+      {
+        "timestamp": "2026-01-24T17:34:58.644517",
+        "emotion": "neutral",
+        "confidence": 98.27214050292969
+      },
+      {
+        "timestamp": "2026-01-24T17:35:01.638282",
+        "emotion": "neutral",
+        "confidence": 62.034427642822266
+      },
+      {
+        "timestamp": "2026-01-24T17:35:04.639961",
+        "emotion": "fear",
+        "confidence": 77.75479888916016
+      },
+      {
+        "timestamp": "2026-01-24T17:35:07.640894",
+        "emotion": "neutral",
+        "confidence": 99.568115234375
+      },
+      {
+        "timestamp": "2026-01-24T17:35:10.646444",
+        "emotion": "neutral",
+        "confidence": 92.80012512207031
+      },
+      {
+        "timestamp": "2026-01-24T17:35:13.640239",
+        "emotion": "angry",
+        "confidence": 98.59623718261719
+      },
+      {
+        "timestamp": "2026-01-24T17:35:16.648228",
+        "emotion": "neutral",
+        "confidence": 98.58148193359375
+      },
+      {
+        "timestamp": "2026-01-24T17:35:19.646857",
+        "emotion": "neutral",
+        "confidence": 98.72532653808594
+      },
+      {
+        "timestamp": "2026-01-24T17:35:22.643169",
+        "emotion": "neutral",
+        "confidence": 96.45516967773438
+      },
+      {
+        "timestamp": "2026-01-24T17:35:25.643244",
+        "emotion": "neutral",
+        "confidence": 98.64110565185547
+      },
+      {
+        "timestamp": "2026-01-24T17:35:28.641142",
+        "emotion": "neutral",
+        "confidence": 95.25872039794922
+      },
+      {
+        "timestamp": "2026-01-24T17:35:31.643840",
+        "emotion": "neutral",
+        "confidence": 95.90455627441406
+      },
+      {
+        "timestamp": "2026-01-24T17:35:34.644794",
+        "emotion": "neutral",
+        "confidence": 94.70793151855469
+      },
+      {
+        "timestamp": "2026-01-24T17:35:37.646759",
+        "emotion": "surprise",
+        "confidence": 95.17391204833984
+      },
+      {
+        "timestamp": "2026-01-24T17:35:40.638520",
+        "emotion": "angry",
+        "confidence": 44.813907623291016
+      },
+      {
+        "timestamp": "2026-01-24T17:35:43.641582",
+        "emotion": "neutral",
+        "confidence": 98.41217803955078
+      },
+      {
+        "timestamp": "2026-01-24T17:35:46.645435",
+        "emotion": "neutral",
+        "confidence": 95.1141586303711
+      },
+      {
+        "timestamp": "2026-01-24T17:35:49.643873",
+        "emotion": "neutral",
+        "confidence": 98.573974609375
+      },
+      {
+        "timestamp": "2026-01-24T17:35:52.641592",
+        "emotion": "neutral",
+        "confidence": 96.25643157958984
+      },
+      {
+        "timestamp": "2026-01-24T17:35:55.646667",
+        "emotion": "neutral",
+        "confidence": 79.59355926513672
+      },
+      {
+        "timestamp": "2026-01-24T17:35:58.643132",
+        "emotion": "neutral",
+        "confidence": 35.12239074707031
+      },
+      {
+        "timestamp": "2026-01-24T17:36:01.641806",
+        "emotion": "angry",
+        "confidence": 99.9485092163086
+      },
+      {
+        "timestamp": "2026-01-24T17:36:04.641965",
+        "emotion": "fear",
+        "confidence": 73.42193603515625
+      },
+      {
+        "timestamp": "2026-01-24T17:36:07.642843",
+        "emotion": "fear",
+        "confidence": 54.091251373291016
+      },
+      {
+        "timestamp": "2026-01-24T17:36:10.643940",
+        "emotion": "neutral",
+        "confidence": 81.66293334960938
+      },
+      {
+        "timestamp": "2026-01-24T17:36:13.643029",
+        "emotion": "neutral",
+        "confidence": 99.22540283203125
+      },
+      {
+        "timestamp": "2026-01-24T17:36:16.654116",
+        "emotion": "neutral",
+        "confidence": 87.16267395019531
+      },
+      {
+        "timestamp": "2026-01-24T17:36:19.649526",
+        "emotion": "neutral",
+        "confidence": 91.71351623535156
+      },
+      {
+        "timestamp": "2026-01-24T17:36:22.641597",
+        "emotion": "neutral",
+        "confidence": 97.1834945678711
+      },
+      {
+        "timestamp": "2026-01-24T17:36:25.640461",
+        "emotion": "neutral",
+        "confidence": 90.90103149414062
+      },
+      {
+        "timestamp": "2026-01-24T17:36:42.300839",
+        "emotion": "neutral",
+        "confidence": 99.1309814453125
+      },
+      {
+        "timestamp": "2026-01-24T17:36:42.340255",
+        "emotion": "sad",
+        "confidence": 85.9593734741211
+      },
+      {
+        "timestamp": "2026-01-24T17:36:42.379574",
+        "emotion": "sad",
+        "confidence": 75.95637512207031
+      },
+      {
+        "timestamp": "2026-01-24T17:36:42.420413",
+        "emotion": "sad",
+        "confidence": 82.25144958496094
+      },
+      {
+        "timestamp": "2026-01-24T17:36:42.455814",
+        "emotion": "sad",
+        "confidence": 72.49241638183594
+      },
+      {
+        "timestamp": "2026-01-24T17:36:43.639790",
+        "emotion": "sad",
+        "confidence": 98.76544189453125
+      },
+      {
+        "timestamp": "2026-01-24T17:36:46.638581",
+        "emotion": "sad",
+        "confidence": 80.09456634521484
+      },
+      {
+        "timestamp": "2026-01-24T17:36:49.642453",
+        "emotion": "neutral",
+        "confidence": 93.30927276611328
+      },
+      {
+        "timestamp": "2026-01-24T17:36:52.649614",
+        "emotion": "neutral",
+        "confidence": 97.7160873413086
+      },
+      {
+        "timestamp": "2026-01-24T17:36:55.643486",
+        "emotion": "neutral",
+        "confidence": 65.5666732788086
+      },
+      {
+        "timestamp": "2026-01-24T17:36:58.639471",
+        "emotion": "fear",
+        "confidence": 83.63423156738281
+      },
+      {
+        "timestamp": "2026-01-24T17:37:01.643098",
+        "emotion": "neutral",
+        "confidence": 99.85303497314453
+      },
+      {
+        "timestamp": "2026-01-24T17:37:04.638261",
+        "emotion": "fear",
+        "confidence": 98.27558135986328
+      },
+      {
+        "timestamp": "2026-01-24T17:37:07.636486",
+        "emotion": "fear",
+        "confidence": 99.93635559082031
+      },
+      {
+        "timestamp": "2026-01-24T17:37:10.641819",
+        "emotion": "fear",
+        "confidence": 97.0943374633789
+      },
+      {
+        "timestamp": "2026-01-24T17:37:13.638314",
+        "emotion": "sad",
+        "confidence": 94.8717041015625
+      }
+    ],
+    "current_question": {
+      "question_text": "That's a good effort! To clarify a couple of points from your last answer: in Python, what you referred to as 'characters' are actually just single-character 'strings', and 'Doubles' are typically called 'floats'. Also, 'Bullions' should be 'Booleans'.\n\nNow, building on that, if you have a variable and you're unsure of its exact data type, how would you programmatically determine its type in Python? Can you give an example?",
+      "question_type": "technical",
+      "difficulty_level": "easy",
+      "suggested_hints": [
+        "Think about a built-in function that helps inspect objects or values.",
+        "What information does Python store about each value that tells you its category?"
+      ]
+    },
+    "_id": "d21dae24-8dbf-44e0-8046-9b35ff353f21"
+  },
+  {
+    "session_id": "a21821bf-fa3b-431e-85a2-d523715187ca",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:45:48.394444",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [
+      {
+        "question": {
+          "question_text": "Let's start with the very basics. How do you declare a variable in Python, and can you give an example using a common data type?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Does Python require you to specify the type of a variable when you declare it?",
+            "Think about assigning a value to a name."
+          ]
+        },
+        "answer_text": "yeah okay so if you want to reply a variable and Python you can use directly use the variable name and the equal to value to which it is supposed to be sign to so for example x is equal to 10 that's how an integer will be like a sign to the values",
+        "analysis": {
+          "feedback": "Analysis failed.",
+          "rating": 5
+        },
+        "timestamp": "2026-01-24T17:47:30.182347"
+      }
+    ],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:45:53.707795",
+        "emotion": "neutral",
+        "confidence": 92.97760009765625
+      },
+      {
+        "timestamp": "2026-01-24T17:45:55.967740",
+        "emotion": "neutral",
+        "confidence": 91.63484954833984
+      },
+      {
+        "timestamp": "2026-01-24T17:45:58.981471",
+        "emotion": "neutral",
+        "confidence": 97.16670989990234
+      },
+      {
+        "timestamp": "2026-01-24T17:46:01.975600",
+        "emotion": "neutral",
+        "confidence": 91.54800415039062
+      },
+      {
+        "timestamp": "2026-01-24T17:46:04.969272",
+        "emotion": "neutral",
+        "confidence": 46.478675842285156
+      },
+      {
+        "timestamp": "2026-01-24T17:46:07.969382",
+        "emotion": "neutral",
+        "confidence": 69.67301940917969
+      },
+      {
+        "timestamp": "2026-01-24T17:46:10.972805",
+        "emotion": "neutral",
+        "confidence": 99.86378479003906
+      },
+      {
+        "timestamp": "2026-01-24T17:46:13.961997",
+        "emotion": "neutral",
+        "confidence": 93.08328247070312
+      },
+      {
+        "timestamp": "2026-01-24T17:46:16.979915",
+        "emotion": "neutral",
+        "confidence": 85.37384796142578
+      },
+      {
+        "timestamp": "2026-01-24T17:46:19.972191",
+        "emotion": "neutral",
+        "confidence": 91.16852569580078
+      },
+      {
+        "timestamp": "2026-01-24T17:46:22.977123",
+        "emotion": "neutral",
+        "confidence": 79.01692199707031
+      },
+      {
+        "timestamp": "2026-01-24T17:46:25.972413",
+        "emotion": "neutral",
+        "confidence": 99.47286224365234
+      },
+      {
+        "timestamp": "2026-01-24T17:46:28.972254",
+        "emotion": "neutral",
+        "confidence": 94.95735168457031
+      },
+      {
+        "timestamp": "2026-01-24T17:46:31.973864",
+        "emotion": "neutral",
+        "confidence": 49.784793853759766
+      },
+      {
+        "timestamp": "2026-01-24T17:46:34.969037",
+        "emotion": "neutral",
+        "confidence": 95.64216613769531
+      },
+      {
+        "timestamp": "2026-01-24T17:46:37.980999",
+        "emotion": "fear",
+        "confidence": 40.20732116699219
+      },
+      {
+        "timestamp": "2026-01-24T17:46:40.972399",
+        "emotion": "fear",
+        "confidence": 33.9786262512207
+      },
+      {
+        "timestamp": "2026-01-24T17:46:43.972177",
+        "emotion": "neutral",
+        "confidence": 78.18402862548828
+      },
+      {
+        "timestamp": "2026-01-24T17:46:46.974754",
+        "emotion": "fear",
+        "confidence": 47.53522872924805
+      },
+      {
+        "timestamp": "2026-01-24T17:46:49.977304",
+        "emotion": "neutral",
+        "confidence": 92.22968292236328
+      },
+      {
+        "timestamp": "2026-01-24T17:46:52.966951",
+        "emotion": "neutral",
+        "confidence": 77.49679565429688
+      },
+      {
+        "timestamp": "2026-01-24T17:46:55.965109",
+        "emotion": "neutral",
+        "confidence": 61.40132141113281
+      },
+      {
+        "timestamp": "2026-01-24T17:46:58.982584",
+        "emotion": "neutral",
+        "confidence": 96.74366760253906
+      },
+      {
+        "timestamp": "2026-01-24T17:47:01.971379",
+        "emotion": "surprise",
+        "confidence": 93.97661590576172
+      },
+      {
+        "timestamp": "2026-01-24T17:47:04.970269",
+        "emotion": "neutral",
+        "confidence": 99.68486022949219
+      },
+      {
+        "timestamp": "2026-01-24T17:47:07.968728",
+        "emotion": "neutral",
+        "confidence": 99.54058837890625
+      },
+      {
+        "timestamp": "2026-01-24T17:47:10.970867",
+        "emotion": "neutral",
+        "confidence": 72.46125030517578
+      },
+      {
+        "timestamp": "2026-01-24T17:47:13.980837",
+        "emotion": "neutral",
+        "confidence": 90.40647888183594
+      },
+      {
+        "timestamp": "2026-01-24T17:47:16.969285",
+        "emotion": "sad",
+        "confidence": 89.95914459228516
+      },
+      {
+        "timestamp": "2026-01-24T17:47:19.982745",
+        "emotion": "neutral",
+        "confidence": 93.73160552978516
+      },
+      {
+        "timestamp": "2026-01-24T17:47:22.973246",
+        "emotion": "neutral",
+        "confidence": 97.81732177734375
+      },
+      {
+        "timestamp": "2026-01-24T17:47:25.986363",
+        "emotion": "sad",
+        "confidence": 47.063079833984375
+      },
+      {
+        "timestamp": "2026-01-24T17:47:31.131511",
+        "emotion": "neutral",
+        "confidence": 98.15357971191406
+      },
+      {
+        "timestamp": "2026-01-24T17:47:31.972580",
+        "emotion": "neutral",
+        "confidence": 99.08536529541016
+      },
+      {
+        "timestamp": "2026-01-24T17:47:34.979943",
+        "emotion": "neutral",
+        "confidence": 99.69882202148438
+      },
+      {
+        "timestamp": "2026-01-24T17:47:37.972489",
+        "emotion": "neutral",
+        "confidence": 96.82984924316406
+      },
+      {
+        "timestamp": "2026-01-24T17:47:40.973093",
+        "emotion": "neutral",
+        "confidence": 99.51936340332031
+      },
+      {
+        "timestamp": "2026-01-24T17:47:43.963854",
+        "emotion": "happy",
+        "confidence": 96.32838439941406
+      },
+      {
+        "timestamp": "2026-01-24T17:47:46.971048",
+        "emotion": "neutral",
+        "confidence": 99.97276306152344
+      },
+      {
+        "timestamp": "2026-01-24T17:47:49.975891",
+        "emotion": "neutral",
+        "confidence": 46.942237854003906
+      },
+      {
+        "timestamp": "2026-01-24T17:47:52.972158",
+        "emotion": "neutral",
+        "confidence": 62.93501281738281
+      },
+      {
+        "timestamp": "2026-01-24T17:47:55.973479",
+        "emotion": "sad",
+        "confidence": 63.79204559326172
+      },
+      {
+        "timestamp": "2026-01-24T17:47:58.974741",
+        "emotion": "happy",
+        "confidence": 41.85783004760742
+      },
+      {
+        "timestamp": "2026-01-24T17:48:01.981199",
+        "emotion": "neutral",
+        "confidence": 66.1717529296875
+      },
+      {
+        "timestamp": "2026-01-24T17:48:04.973818",
+        "emotion": "neutral",
+        "confidence": 47.050777435302734
+      },
+      {
+        "timestamp": "2026-01-24T17:48:07.973377",
+        "emotion": "neutral",
+        "confidence": 51.8509521484375
+      },
+      {
+        "timestamp": "2026-01-24T17:48:10.978122",
+        "emotion": "neutral",
+        "confidence": 96.83805084228516
+      },
+      {
+        "timestamp": "2026-01-24T17:48:13.973552",
+        "emotion": "neutral",
+        "confidence": 91.95149230957031
+      },
+      {
+        "timestamp": "2026-01-24T17:48:16.975891",
+        "emotion": "neutral",
+        "confidence": 91.9865493774414
+      },
+      {
+        "timestamp": "2026-01-24T17:48:19.971570",
+        "emotion": "neutral",
+        "confidence": 95.61896514892578
+      },
+      {
+        "timestamp": "2026-01-24T17:48:22.980112",
+        "emotion": "neutral",
+        "confidence": 75.81914520263672
+      },
+      {
+        "timestamp": "2026-01-24T17:48:25.983014",
+        "emotion": "neutral",
+        "confidence": 89.95185089111328
+      },
+      {
+        "timestamp": "2026-01-24T17:48:28.972744",
+        "emotion": "neutral",
+        "confidence": 99.39418029785156
+      },
+      {
+        "timestamp": "2026-01-24T17:48:31.966330",
+        "emotion": "neutral",
+        "confidence": 98.74315643310547
+      },
+      {
+        "timestamp": "2026-01-24T17:48:34.972649",
+        "emotion": "neutral",
+        "confidence": 98.77383422851562
+      },
+      {
+        "timestamp": "2026-01-24T17:48:37.965141",
+        "emotion": "neutral",
+        "confidence": 91.99314880371094
+      }
+    ],
+    "current_question": {
+      "question_text": "COULD NOT GENERATE QUESTION. Please describe your experience with this topic.",
+      "question_type": "behavioral",
+      "difficulty_level": "easy"
+    },
+    "_id": "72d326db-fb59-4233-aa03-cb4dccb1de39"
+  },
+  {
+    "session_id": "761fd1da-7dfb-4aff-a25b-af181c31f12d",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:48:42.331524",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:48:45.954851",
+        "emotion": "neutral",
+        "confidence": 99.89717864990234
+      },
+      {
+        "timestamp": "2026-01-24T17:48:48.950522",
+        "emotion": "neutral",
+        "confidence": 98.86602783203125
+      },
+      {
+        "timestamp": "2026-01-24T17:48:51.954724",
+        "emotion": "neutral",
+        "confidence": 86.66974639892578
+      },
+      {
+        "timestamp": "2026-01-24T17:48:54.950237",
+        "emotion": "neutral",
+        "confidence": 56.672119140625
+      },
+      {
+        "timestamp": "2026-01-24T17:48:57.957110",
+        "emotion": "neutral",
+        "confidence": 98.71967315673828
+      },
+      {
+        "timestamp": "2026-01-24T17:49:00.954904",
+        "emotion": "neutral",
+        "confidence": 95.81121826171875
+      },
+      {
+        "timestamp": "2026-01-24T17:49:03.953196",
+        "emotion": "neutral",
+        "confidence": 93.2104263305664
+      },
+      {
+        "timestamp": "2026-01-24T17:49:06.953637",
+        "emotion": "neutral",
+        "confidence": 72.74490356445312
+      },
+      {
+        "timestamp": "2026-01-24T17:49:09.965207",
+        "emotion": "neutral",
+        "confidence": 98.7661361694336
+      },
+      {
+        "timestamp": "2026-01-24T17:49:12.959783",
+        "emotion": "neutral",
+        "confidence": 87.21607208251953
+      }
+    ],
+    "current_question": {
+      "question_text": "COULD NOT GENERATE QUESTION. Please describe your experience with this topic.",
+      "question_type": "behavioral",
+      "difficulty_level": "easy"
+    },
+    "_id": "8f21afb8-1d2f-49ae-93ac-ca91d0ec1ba5"
+  },
+  {
+    "session_id": "70ffa456-c052-43a1-bf82-7ed55ecf986f",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-24 17:49:39.467238",
+    "topic": "Python Basics",
+    "difficulty": "easy",
+    "history": [
+      {
+        "question": {
+          "question_text": "Let's start with the very basics. Can you explain what a 'variable' is in Python and how you assign a value to it? Could you also mention a couple of common built-in data types?",
+          "question_type": "technical",
+          "difficulty_level": "easy",
+          "suggested_hints": [
+            "Think about what a variable represents in programming.",
+            "How does Python handle variable types compared to some other languages?",
+            "Can you give an example of an integer and a string?"
+          ]
+        },
+        "answer_text": "so to so variable is value in Python which can be assigned some contents and does repeated like used repeatedly and so to assign a value in Python you can just simply x is equal to 10 or string or some valid also there a lot of built in data types for example integ",
+        "analysis": {
+          "is_correct": true,
+          "rating": 6,
+          "feedback": "The candidate correctly demonstrates how to assign a value to a variable (x = 10) and identifies one built-in data type (integer). However, the explanation of what a variable is could be more precise; a variable is a name that refers to a value, rather than being the value itself. The answer also only provides one data type example when 'a couple' were requested, making it slightly incomplete.",
+          "is_complete": false,
+          "sentiment": "neutral",
+          "improvement_tip": "Clearly define a variable as a 'name' that 'refers to a value' and provide at least two distinct built-in data type examples (e.g., integer, string, float, boolean)."
+        },
+        "timestamp": "2026-01-24T17:51:19.478288"
+      }
+    ],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-24T17:49:44.612498",
+        "emotion": "neutral",
+        "confidence": 99.94156646728516
+      },
+      {
+        "timestamp": "2026-01-24T17:49:47.058389",
+        "emotion": "neutral",
+        "confidence": 88.32118225097656
+      },
+      {
+        "timestamp": "2026-01-24T17:49:50.053835",
+        "emotion": "neutral",
+        "confidence": 45.62190628051758
+      },
+      {
+        "timestamp": "2026-01-24T17:49:53.051849",
+        "emotion": "happy",
+        "confidence": 90.70381164550781
+      },
+      {
+        "timestamp": "2026-01-24T17:49:56.065073",
+        "emotion": "sad",
+        "confidence": 59.11461639404297
+      },
+      {
+        "timestamp": "2026-01-24T17:49:59.057128",
+        "emotion": "neutral",
+        "confidence": 98.57959747314453
+      },
+      {
+        "timestamp": "2026-01-24T17:50:02.059707",
+        "emotion": "neutral",
+        "confidence": 99.90410614013672
+      },
+      {
+        "timestamp": "2026-01-24T17:50:05.057383",
+        "emotion": "neutral",
+        "confidence": 96.45665740966797
+      },
+      {
+        "timestamp": "2026-01-24T17:50:08.054800",
+        "emotion": "neutral",
+        "confidence": 99.89625549316406
+      },
+      {
+        "timestamp": "2026-01-24T17:50:11.062819",
+        "emotion": "neutral",
+        "confidence": 99.36308288574219
+      },
+      {
+        "timestamp": "2026-01-24T17:50:14.059403",
+        "emotion": "neutral",
+        "confidence": 99.84137725830078
+      },
+      {
+        "timestamp": "2026-01-24T17:50:17.051781",
+        "emotion": "neutral",
+        "confidence": 99.4615249633789
+      },
+      {
+        "timestamp": "2026-01-24T17:50:20.062005",
+        "emotion": "neutral",
+        "confidence": 99.20281982421875
+      },
+      {
+        "timestamp": "2026-01-24T17:50:23.053661",
+        "emotion": "sad",
+        "confidence": 45.51390838623047
+      },
+      {
+        "timestamp": "2026-01-24T17:50:26.048631",
+        "emotion": "neutral",
+        "confidence": 99.26980590820312
+      },
+      {
+        "timestamp": "2026-01-24T17:50:29.054872",
+        "emotion": "neutral",
+        "confidence": 94.264892578125
+      },
+      {
+        "timestamp": "2026-01-24T17:50:32.064956",
+        "emotion": "neutral",
+        "confidence": 87.43121337890625
+      },
+      {
+        "timestamp": "2026-01-24T17:50:35.063096",
+        "emotion": "neutral",
+        "confidence": 99.8597640991211
+      },
+      {
+        "timestamp": "2026-01-24T17:50:38.052932",
+        "emotion": "neutral",
+        "confidence": 58.06952667236328
+      },
+      {
+        "timestamp": "2026-01-24T17:50:41.062606",
+        "emotion": "neutral",
+        "confidence": 99.99205017089844
+      },
+      {
+        "timestamp": "2026-01-24T17:50:44.051777",
+        "emotion": "happy",
+        "confidence": 63.07313537597656
+      },
+      {
+        "timestamp": "2026-01-24T17:50:47.050338",
+        "emotion": "neutral",
+        "confidence": 99.50450897216797
+      },
+      {
+        "timestamp": "2026-01-24T17:50:50.056439",
+        "emotion": "neutral",
+        "confidence": 99.24076080322266
+      },
+      {
+        "timestamp": "2026-01-24T17:50:53.060291",
+        "emotion": "neutral",
+        "confidence": 93.9931411743164
+      },
+      {
+        "timestamp": "2026-01-24T17:50:56.056360",
+        "emotion": "neutral",
+        "confidence": 86.24585723876953
+      },
+      {
+        "timestamp": "2026-01-24T17:50:59.056795",
+        "emotion": "neutral",
+        "confidence": 99.97415161132812
+      },
+      {
+        "timestamp": "2026-01-24T17:51:02.063850",
+        "emotion": "neutral",
+        "confidence": 99.84095764160156
+      },
+      {
+        "timestamp": "2026-01-24T17:51:05.059743",
+        "emotion": "neutral",
+        "confidence": 99.9918212890625
+      },
+      {
+        "timestamp": "2026-01-24T17:51:08.052124",
+        "emotion": "neutral",
+        "confidence": 99.90066528320312
+      },
+      {
+        "timestamp": "2026-01-24T17:51:11.065150",
+        "emotion": "neutral",
+        "confidence": 99.66362762451172
+      },
+      {
+        "timestamp": "2026-01-24T17:51:14.057426",
+        "emotion": "neutral",
+        "confidence": 70.72439575195312
+      },
+      {
+        "timestamp": "2026-01-24T17:51:26.971178",
+        "emotion": "happy",
+        "confidence": 80.31123352050781
+      },
+      {
+        "timestamp": "2026-01-24T17:51:27.034271",
+        "emotion": "neutral",
+        "confidence": 98.9185791015625
+      },
+      {
+        "timestamp": "2026-01-24T17:51:27.089875",
+        "emotion": "neutral",
+        "confidence": 98.8702392578125
+      },
+      {
+        "timestamp": "2026-01-24T17:51:27.153093",
+        "emotion": "neutral",
+        "confidence": 99.90562438964844
+      },
+      {
+        "timestamp": "2026-01-24T17:51:29.060932",
+        "emotion": "neutral",
+        "confidence": 99.94651794433594
+      },
+      {
+        "timestamp": "2026-01-24T17:51:32.057324",
+        "emotion": "neutral",
+        "confidence": 71.1747817993164
+      },
+      {
+        "timestamp": "2026-01-24T17:51:35.054611",
+        "emotion": "fear",
+        "confidence": 32.79471206665039
+      },
+      {
+        "timestamp": "2026-01-24T17:51:38.056590",
+        "emotion": "neutral",
+        "confidence": 99.14486694335938
+      },
+      {
+        "timestamp": "2026-01-24T17:51:41.057237",
+        "emotion": "neutral",
+        "confidence": 99.95509338378906
+      },
+      {
+        "timestamp": "2026-01-24T17:51:44.062108",
+        "emotion": "neutral",
+        "confidence": 99.9640884399414
+      },
+      {
+        "timestamp": "2026-01-24T17:51:47.056672",
+        "emotion": "surprise",
+        "confidence": 68.13875579833984
+      },
+      {
+        "timestamp": "2026-01-24T17:51:50.064211",
+        "emotion": "neutral",
+        "confidence": 99.82313537597656
+      },
+      {
+        "timestamp": "2026-01-24T17:51:53.058269",
+        "emotion": "neutral",
+        "confidence": 99.52914428710938
+      },
+      {
+        "timestamp": "2026-01-24T17:51:56.057077",
+        "emotion": "neutral",
+        "confidence": 98.34602355957031
+      },
+      {
+        "timestamp": "2026-01-24T17:51:59.055626",
+        "emotion": "neutral",
+        "confidence": 73.79867553710938
+      },
+      {
+        "timestamp": "2026-01-24T17:52:02.055646",
+        "emotion": "neutral",
+        "confidence": 99.6065902709961
+      },
+      {
+        "timestamp": "2026-01-24T17:52:05.055031",
+        "emotion": "fear",
+        "confidence": 50.266902923583984
+      },
+      {
+        "timestamp": "2026-01-24T17:52:08.060576",
+        "emotion": "neutral",
+        "confidence": 84.59596252441406
+      }
+    ],
+    "current_question": {
+      "question_text": "You mentioned integers. Can you show me how you would create a variable for a string and a variable for a float in Python? Also, could you give a simple example of an operation you might perform on either a string or a float?",
+      "question_type": "technical",
+      "difficulty_level": "easy",
+      "suggested_hints": [
+        "Think about how you'd represent text or numbers with decimal points.",
+        "What's a common way to combine strings or do simple math with numbers?"
+      ]
+    },
+    "_id": "cafbe0b5-de57-4de9-86ac-b51aef99a406"
+  },
+  {
+    "session_id": "d4569a2f-6e88-426f-a204-ea9d147f27da",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-26 20:12:36.514954",
+    "topic": "Python Basics",
+    "difficulty": "medium",
+    "history": [],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-26T20:12:45.269483",
+        "emotion": "sad",
+        "confidence": 99.19577026367188
+      }
+    ],
+    "current_question": {
+      "question_text": "In Python, data types can be classified as either mutable or immutable. Can you explain what this distinction means, provide examples of both mutable and immutable types, and discuss a scenario where understanding this difference is crucial for avoiding unexpected behavior?",
+      "question_type": "technical",
+      "difficulty_level": "medium",
+      "suggested_hints": [
+        "Think about what happens to an object's identity (memory address) when you modify it.",
+        "Consider the implications when passing mutable vs. immutable objects as function arguments.",
+        "Examples of mutable types include lists, dictionaries, and sets. Examples of immutable types include integers, floats, strings, and tuples."
+      ]
+    },
+    "_id": "20de976e-f9ea-4d27-85ce-da3f2e470d1f"
+  },
+  {
+    "session_id": "8ecfe23c-8812-45a5-8e51-e2309bb8f187",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "start_time": "2026-01-26 20:58:56.069735",
+    "topic": "Python Basics",
+    "difficulty": "medium",
+    "history": [],
+    "emotion_log": [
+      {
+        "timestamp": "2026-01-26T20:59:07.591317",
+        "emotion": "sad",
+        "confidence": 89.43324279785156
+      },
+      {
+        "timestamp": "2026-01-26T20:59:07.672510",
+        "emotion": "sad",
+        "confidence": 96.03555297851562
+      },
+      {
+        "timestamp": "2026-01-26T20:59:10.645852",
+        "emotion": "sad",
+        "confidence": 97.10572052001953
+      },
+      {
+        "timestamp": "2026-01-26T20:59:13.648092",
+        "emotion": "happy",
+        "confidence": 67.37516784667969
+      },
+      {
+        "timestamp": "2026-01-26T20:59:16.682656",
+        "emotion": "happy",
+        "confidence": 58.32847213745117
+      },
+      {
+        "timestamp": "2026-01-26T20:59:19.663219",
+        "emotion": "happy",
+        "confidence": 95.95457458496094
+      },
+      {
+        "timestamp": "2026-01-26T20:59:22.666220",
+        "emotion": "neutral",
+        "confidence": 98.31961059570312
+      },
+      {
+        "timestamp": "2026-01-26T20:59:25.649663",
+        "emotion": "happy",
+        "confidence": 95.95032501220703
+      },
+      {
+        "timestamp": "2026-01-26T20:59:28.642197",
+        "emotion": "neutral",
+        "confidence": 76.93685913085938
+      },
+      {
+        "timestamp": "2026-01-26T20:59:31.631307",
+        "emotion": "neutral",
+        "confidence": 84.65913391113281
+      },
+      {
+        "timestamp": "2026-01-26T20:59:34.623257",
+        "emotion": "neutral",
+        "confidence": 76.83914947509766
+      },
+      {
+        "timestamp": "2026-01-26T20:59:37.654962",
+        "emotion": "sad",
+        "confidence": 75.8619384765625
+      },
+      {
+        "timestamp": "2026-01-26T20:59:40.635230",
+        "emotion": "sad",
+        "confidence": 84.69776153564453
+      },
+      {
+        "timestamp": "2026-01-26T20:59:43.639617",
+        "emotion": "happy",
+        "confidence": 61.256378173828125
+      }
+    ],
+    "current_question": {
+      "question_text": "Tanish, your resume highlights extensive Python experience, particularly with frameworks like FastAPI and Flask, and building complex systems such as the 'Issue Triage Orchestrator,' where you mention features like automatic retries and circuit-breakers. These often leverage powerful Python features. Can you explain what decorators are in Python, how they work, and perhaps provide a simple example of how you might use one, perhaps related to adding a retry mechanism or logging to a function in one of your projects?",
+      "question_type": "technical",
+      "difficulty_level": "medium",
+      "suggested_hints": [
+        "Think about functions that modify or enhance other functions without altering their core code.",
+        "Consider the `@` syntax and what it achieves.",
+        "How would you implement a common functionality, like a retry mechanism or timing a function's execution, in a reusable way?"
+      ]
+    },
+    "resume_text": "Tanish Shah\n/envel\u2322petanishthar.work@gmail.com\u2642phone-alt+91 8108267971/linkedin-inTanishThar/githubTanishthar/gl\u2322beTanishThar.com\nProfile\nFull-Stack + Python Developer with hands-on experience in LLM agents, LangGraph orchestration, and end-to-\nend automation. Passionate about designing LLM-driven software agents and automation pipelines. Experienced\nacross the full stack\u2014React/Next.js frontends, FastAPI/Node backends, and Python-based AI agent services.\nSkilled in building reliable, observable systems integrating external APIs, vector stores, and browser automation.\nEducation\nD.J.Sanghvi College of Engineering\nB.Tech in Computer Engineering\n2023 \u2013 present\n\u25e6CGPA: 8.25\nMaharashtra CET : 98.34%|JEE : 90.66%2021 \u2013 2023\nExperience\nProduct Manager\nMeeraAI Technology Solutions Ltd.\nSept 2025 \u2013 Present\n\u25e6Conducted technical research and requirements analysis to define MVP features and system flow.\n\u25e6Collaborated with engineers to design, develop, and integrate full-stack features aligned with product goals.\n\u25e6Partnered with founders and developers to refine architecture, deployment workflows, and release timelines.\n\u25e6Improved engineering velocity by optimizing Git branching strategies, reviewing code quality, and enhancing\nCI/CD automation for faster, more reliable builds.\nFlutter Developer Intern\nMeeraAI Technology Solutions Ltd.\nAug 2025 \u2013 Oct 2025\n\u25e6Built mobile app UI withFlutter, ensuring responsive layouts and reusable components.\n\u25e6Developed backend APIs usingNode.js, Express, MongoDBfor user and plan management.\n\u25e6Contributed toAWSdesign and optimization for efficient data handling.\nML Developer\nSynapse\nJuly 2024 \u2013 June 2025\n\u25e6Built and optimized AI models for internal tools and research initiatives.\n\u25e6Integrated AI workflows usingLangflow, Gemini API, and Python backends.\nProjects\n\u25e6Issue Triage Orchestrator (LangGraph, FastAPI, Next.js)\nTech: Python, LangGraph, FastAPI, Next.js, Docker, PGVector, Playwright, TypeScript\nBuilt a multi-agent orchestration system enabling 3 agents to collaborate using tool-calling flows and typed\nJSON state. Implemented HTTP fetcher, vector search (PGVector), and code executor sandbox with\nautomatic retries and circuit-breakers. Developed evaluation harness tracking metrics like steps count,\ntool error rate, and eval score, stored in metrics.json. Created a Next.js dashboard with real-time step logs,\ntask initiation, and final artifact visualization. Containerized the entire workflow with docker-compose for\none-command reproducibility.\n\u25e6StyleMate \u2013 AI-Powered Virtual Wardrobe & Stylist(On-going project)\nTech: Flutter, Dart, Python (Flask), U2-Net, MobileNetV2, PyTorch\nBuilt a cross-platform fashion app that removes image backgrounds, classifies garments with AI, and enables\nvirtual try-ons and to top it all of an AI Stylist. Designed a modern UI with glassmorphism and interactive\nwardrobe features.\nTanish Shah - Page 1 of 2\n\u25e6AI JARVIS \u2013 Voice-Controlled Contextual Assistant\nTech: Python, speech recognition, Gemini API, Tkinter\nBuilt an Iron Man\u2013inspired assistant integrating voice commands, natural language understanding, and\ncontextual responses with a futuristic graphical interface. Also allowing hardware usage in order to surf the\ninternet, play music and carry out physical commands.\n\u25e6Gesture-Controlled DJ System using Computer Vision\nTech: OpenCV, MediaPipe, SoundDevice, Python\nHand gestures control music speed and volume for a touchless DJ setup. Real-time feedback using hand\nlandmark detection and motion estimation.\n\u25e6AI Web Scraper\nTech: Python, Selenium, BeautifulSoup, Ollama, Streamlit\nA web automation tool that scrapes static/dynamic pages and uses local AI (via Ollama) to summarize and\nextract relevant content from the web. Can handle captchas and customize output based on user description.\nTechnologies\nLanguages:Python, Java, C, Dart, HTML, CSS, JavaScript\nLLM & Agents:LangGraph, LangChain, Ollama, Python Agents, OpenAI API\nBackend:FastAPI, Flask, Node.js, Express.js, Django\nFrontend:React, Tailwind CSS, HTML5, CSS3, Three.js, Flutter, Next.js\nML & AI:PyTorch, TensorFlow, Keras, Scikit-learn, NLP, Langflow, MediaPipe\nOther:AWS, Git, Firebase, SQLite, MongoDB, Android Studio, Playwright, Selenium, Docker, GitHub Actions,\nLinux/Unix\nAchievements & Extracurriculars\n\u25e6Selected asstudent instructorat Nehru Science Centre for Lego robotics workshops.\n\u25e6Represented school in football and cricket tournaments for over 3 years.\n\u25e6Designed and deployed 10+ side projects involving AI, mobile apps, and full-stack platforms.\nTanish Shah - Page 2 of 2",
+    "_id": "5781ce49-c0ec-4305-a8f9-b8088071fbfd"
+  }
+]

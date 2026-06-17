@@ -1,0 +1,14 @@
+[
+  {
+    "_id": "69749a8a32b689a44d8e52c7",
+    "user_id": "69749a8a32b689a44d8e52c5",
+    "total_questions_attempted": 0,
+    "total_questions_solved": 0,
+    "total_time_spent": 0,
+    "emotion_distribution": {},
+    "accuracy_by_difficulty": {},
+    "average_time_per_question": 0,
+    "streak_days": 0,
+    "last_active": "2026-01-24T15:40:18.938067"
+  }
+]
